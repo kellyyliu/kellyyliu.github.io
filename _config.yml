@@ -202,6 +202,10 @@ exclude:
   - _pages/projects.md
   - _pages/publications.md
   - _pages/books.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - include/repository/repo_trophies.liquid
 keep_files:
   - CNAME
   - .nojekyll
