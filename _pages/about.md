@@ -39,6 +39,6 @@ My research interests are in Health Economics, Economics of Education, Economics
 
 In particular, I am interested in how socioeconomic determinants shape population health outcomes and the role of education in society.
 
-You can find my CV [here](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing). 
-
 **I am on the academic job market 2025-2026.**
+
+You can find my CV [here](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing). 
