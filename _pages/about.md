@@ -33,10 +33,12 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Ph.D. candidate in Economics at Tulane University. 
+I am a Ph.D. candidate in Economics at Tulane University.
 
-My research interests are in Health Economics, Economics of Education, Economics of Aging, and Applied Econometrics. 
+My research interests are in Health Economics, Economics of Education, Economics of Aging, and Applied Econometrics.
 
-In particular, I am interested in how socioeconomic determinants shape population health outcomes and the role of education in society. 
+In particular, I am interested in how socioeconomic determinants shape population health outcomes and the role of education in society.
 
-I am on the academic job market
+You can find my CV [here](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing). 
+
+**I am on the academic job market 2025-2026.**
