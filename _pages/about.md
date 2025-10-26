@@ -32,4 +32,11 @@ Write your biography here. Tell the world about yourself. Link to your favorite 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
-My name is Yu Liu. I am a Ph.D. candidate. My current research interests include health economics and economics of education. 
+
+I am a Ph.D. candidate in Economics at Tulane University. 
+
+My research interests are in Health Economics, Economics of Education, Economics of Aging, and Applied Econometrics. 
+
+In particular, I am interested in how socioeconomic determinants shape population health outcomes and the role of education in society. 
+
+I am on the academic job market
