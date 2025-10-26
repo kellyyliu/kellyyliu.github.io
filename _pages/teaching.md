@@ -10,6 +10,7 @@ nav_order: 2
 
 - ECON 3983 STATA Lab, Spring 2024
 
+
 # Teaching Assistant
 
 - ECON 7530 Adv Inc and Emp Theory I, Felix Rioja, Fall 2025
@@ -18,5 +19,5 @@ nav_order: 2
 - ECON 1010 Intro to Microeconomics, Hyun Park, Fall 2023
 - ECON 1020 Intro to Macroeconomics, Hyun Park, Fall 2023
 - ECON 4230/6230 Econometrics, Augustine Denteh, Spring 2023
-- ECON 4500/6500 Health Econ \& Policy, Augustine Denteh, Spring 2023
+- ECON 4500/6500 Health Econ & Policy, Augustine Denteh, Spring 2023
 - ECON 4330/6330 International Trading Relations, Douglas Nelson, Fall 2022
