@@ -26,16 +26,16 @@ nav_order: 1
 
 # Publication
 
-#### “Facility Acquisition and Care Quality in the United States Dialysis Industry.” with Ilana Segal, Truc Bui, and Kevin Callison. *Journal for Healthcare Quality* ([forthcoming](https://journals.lww.com/jhqonline/fulltext/9900/facility_acquisition_and_care_quality_in_the_u_s_.118.aspx)).
+- “Facility Acquisition and Care Quality in the United States Dialysis Industry.” with Ilana Segal, Truc Bui, and Kevin Callison. *Journal for Healthcare Quality* ([forthcoming](https://journals.lww.com/jhqonline/fulltext/9900/facility_acquisition_and_care_quality_in_the_u_s_.118.aspx)).
 
 # Field Paper
 
-#### “The Effect of State Mental Health Parity Laws on Physician Behavior.”
+##### “The Effect of State Mental Health Parity Laws on Physician Behavior.”
+
+**Abstract:** Numerous studies have evaluated the effectiveness of state mental health parity laws in increasing access to mental health services. However, few have examined the role of mental health physicians in facilitating this access to treatment, despite the critical role of physician behavior in understanding the mechanisms behind. This paper employs a restricted data set to provide causal evidence from various perspectives, highlighting multiple supply-side responses induced by state mental health parity laws. First, utilizing a mixed-economy model, I predict that mental health physicians in states with parity laws will increase the quantity of mental health services and their participation in private health insurance market. Second, employing difference-in-differences strategies, results show that the average visit duration decreases about 17% to accommodate increased quantities while physicians do not increase their total labor supply time too much. Third, the observed null effects on payer mix suggest that increased quantities may come mainly from increasing demand of existing patients. Fourth, parity laws do not appear to influence psychiatrists’ location decisions but they do affect psychiatric or mental health service provisions at the facility level. The facility responses have important policy implications in addressing geographical disparities in mental health service across states. The results also shed lights on the evaluation of subsequent mental health insurance expansions, such as Medicaid expansion in behavioral health services.
 
 # Work in Progress
 
-#### “Gender Identity, Race, Ethnicity, and Health Insurance Discrimination in Access to Mental Health Care: Evidence from an Audit Correspondence Field Experiment.” with Patrick Button, Barbara Lundebjerg, Luca Fumarco, Benjamin Harrell, and David Schwegman.
-
-#### “The Hidden Costs of Police Brutality: Police-Involved Killings and Public Finance” with Stephanie F. Cheng and Wei Long.
-
-#### “Medicare Spending, Mobility and Health Outcomes.” with Kevin Callison.
+- “Gender Identity, Race, Ethnicity, and Health Insurance Discrimination in Access to Mental Health Care: Evidence from an Audit Correspondence Field Experiment.” with Patrick Button, Barbara Lundebjerg, Luca Fumarco, Benjamin Harrell, and David Schwegman.
+- “The Hidden Costs of Police Brutality: Police-Involved Killings and Public Finance” with Stephanie F. Cheng and Wei Long.
+- “Medicare Spending, Mobility and Health Outcomes.” with Kevin Callison.
