@@ -8,7 +8,7 @@ nav_order: 2
 ---
 # Independent Instructor
 
-- ECON 3983 STATA Lab, Spring 2024
+- ECON 3983 STATA Lab, Spring 2024 [Teaching Evaluation Upon Request]
 
 ## Teaching Assistant
 

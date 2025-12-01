@@ -36,6 +36,6 @@ nav_order: 1
 
 # Work in Progress
 
-- “Gender Identity, Race, Ethnicity, and Health Insurance Discrimination in Access to Mental Health Care: Evidence from an Audit Correspondence Field Experiment.” with Patrick Button, Barbara Lundebjerg, Luca Fumarco, Benjamin Harrell, and David Schwegman.
-- “The Hidden Costs of Police Brutality: Police-Involved Killings and Public Finance” with Stephanie F. Cheng and Wei Long.
-- “Medicare Spending, Mobility and Health Outcomes.” with Kevin Callison.
+- “Gender Identity, Race, Ethnicity, and Health Insurance Discrimination in Access to Mental Health Care: Evidence from an Audit Correspondence Field Experiment.” with Patrick Button, Barbara Lundebjerg, Luca Fumarco, Benjamin Harrell, and David Schwegman. (Data Collected)
+- “The Hidden Costs of Police Brutality: Police-Involved Killings and Public Finance” with Stephanie F. Cheng and Wei Long. (Draft Upon Request)
+- “Medicare Spending, Mobility and Health Outcomes.” with Kevin Callison. (Restricted Data Approved)
