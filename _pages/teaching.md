@@ -8,10 +8,12 @@ nav_order: 2
 ---
 # Independent Instructor
 
-- ECON 3983 STATA Lab, Spring 2024 [Teaching Evaluation Upon Request]
+- ECON 3983 STATA Lab, Spring 2024 [[Course Materials](https://portfolium.com/entry/stata-lab)] [Teaching Evaluation Upon Request]
 
 ## Teaching Assistant
 
+- ECON 4550/6550 Big Data Economics, Spring 2026
+- ECON 1010 Intro to Microeconomics, Spring 2026
 - ECON 7530 Adv Inc and Emp Theory I, Fall 2025
 - ECON 1020 Intro to Macroeconomics, Fall 2025
 - ECON 3230 Econometrics, Spring 2025
