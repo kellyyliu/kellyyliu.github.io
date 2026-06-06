@@ -35,10 +35,10 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 I am a Ph.D. candidate in Economics at Tulane University.
 
-My research interests are in Health Economics, Economics of Education, Economics of Aging, and Applied Econometrics.
+My research interests are in Health Economics, Economics of Education, Economics of Aging, and Applied Microeconometrics.
 
-In particular, I am interested in how socioeconomic determinants shape population health outcomes and the role of education in society.
+My dissertaion tries to understand how life-cycle institutional factors - specifically education, technology adoption, and retirement policies - shape health capital and population well-being.
 
-**I am on the academic job market 2025-2026.**
+**I am on the academic job market 2026-2027.**
 
 You can find my CV [here](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing). 
