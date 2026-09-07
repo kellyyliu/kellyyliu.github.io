@@ -33,12 +33,42 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Ph.D. candidate in Economics at Tulane University.
+I am a Ph.D. candidate in Economics at Tulane University and am on the 2026-2027 academic job market.
 
-My research interests are in Health Economics, Economics of Education, Economics of Aging, and Applied Microeconometrics.
+My research interests are in health economics, the economics of aging, the economics of education, and applied microeconometrics.
 
-My dissertaion tries to understand how life-cycle institutional factors - specifically education, technology adoption, and retirement policies - shape health capital and population well-being.
+My research examines how institutions shape health investments and the accumulation of health over the life course, with a particular focus on education, healthcare access, retirement, and technological change.
 
-**I am on the academic job market 2026-2027.**
+<style>
+.jmp-toggle {
+  margin: 1.25rem 0;
+  padding: 1rem 1.1rem;
+  border-left: 4px solid var(--global-theme-color);
+  background: var(--global-bg-color);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.06);
+  border-radius: 0.4rem;
+}
 
-You can find my CV [here](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing). 
+.jmp-toggle summary {
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.jmp-toggle[open] summary {
+  margin-bottom: 0.75rem;
+}
+
+.jmp-toggle p:last-child {
+  margin-bottom: 0;
+}
+</style>
+
+<details class="jmp-toggle">
+  <summary>Job Market Paper: Higher Education and Long-Term Health</summary>
+
+  <p><strong>Higher Education and Long-Term Health: Evidence from China’s College Entrance Exam Suspension</strong></p>
+
+  <p><strong>Abstract:</strong> This paper examines the long-term health investments and outcomes of cohorts whose access to higher education was disrupted by the suspension of China’s college entrance examination during 1966-1969. Using a fuzzy regression discontinuity design, I find that college completion improves health behaviors but increases diagnosed chronic morbidity, while physical, mental, and cognitive health show little systematic change. Higher education also increases preventive checkups, employment-based health insurance, and wealth. These changes may increase disease detection and resources for care, providing a potential explanation for why diagnosed morbidity rises without corresponding deterioration in broader health.</p>
+</details>
+
+[**Curriculum Vitae**](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing). 
