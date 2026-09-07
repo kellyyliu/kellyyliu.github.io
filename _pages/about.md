@@ -33,11 +33,11 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
-I am a Ph.D. candidate in Economics at Tulane University and am on the 2026-2027 academic job market.
-
 My research interests are in health economics, the economics of aging, the economics of education, and applied microeconometrics.
 
 My research examines how institutions shape health investments and the accumulation of health over the life course, with a particular focus on education, healthcare access, retirement, and technological change.
+
+**I am on the 2026-2027 academic job market!**
 
 <style>
 .jmp-toggle {
@@ -71,4 +71,4 @@ My research examines how institutions shape health investments and the accumulat
   <p><strong>Abstract:</strong> This paper examines the long-term health investments and outcomes of cohorts whose access to higher education was disrupted by the suspension of China’s college entrance examination during 1966-1969. Using a fuzzy regression discontinuity design, I find that college completion improves health behaviors but increases diagnosed chronic morbidity, while physical, mental, and cognitive health show little systematic change. Higher education also increases preventive checkups, employment-based health insurance, and wealth. These changes may increase disease detection and resources for care, providing a potential explanation for why diagnosed morbidity rises without corresponding deterioration in broader health.</p>
 </details>
 
-[**Curriculum Vitae**](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing). 
+[**Curriculum Vitae**](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing) 
