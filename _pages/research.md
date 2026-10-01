@@ -12,7 +12,7 @@ nav_order: 1
 
 **[Draft]** | **[Slides]** | **[Code]**
 
-> **Abstract:** This paper examines the long-term health investments and outcomes of cohorts whose access to higher education was disrupted by the suspension of China’s college entrance examination during 1966-1969. Using a fuzzy regression discontinuity design, I find that college completion improves health behaviors but increases diagnosed chronic morbidity, while physical, mental, and cognitive health show little systematic change. Higher education also increases preventive checkups, employment-based health insurance, and wealth. These changes may increase disease detection and resources for care, providing a potential explanation for why diagnosed morbidity rises without corresponding deterioration in broader health.
+> **Abstract:** Higher education is widely viewed as improving health, yet its effects on diagnosed chronic morbidity may differ from its effects on broader dimensions of health. This paper examines these effects using cohorts whose college access was disrupted by China’s suspension of college entrance examinations between 1966 and 1969. The abrupt and unanticipated suspension provides unusually clean variation for identifying the causal effects of higher education on later-life health and, unlike the expansion studied in most quasi-experimental research, offers a rare contraction in educational opportunity. Using a fuzzy regression discontinuity design, I find that college completion increases diagnosed chronic morbidity, while physical, mental, and cognitive health show little systematic deterioration. College completion also increases health investments along two distinct margins: healthier behaviors and greater preventive care and healthcare contact. In addition, it increases employment-based health insurance and wealth. Together, these results are consistent with education affecting both health production and disease detection, highlighting why diagnosed morbidity and broader health measures need not move together in response to education.
 
 ---
 
@@ -27,17 +27,19 @@ nav_order: 1
 
 ### **Retirement, Grandchild Care, and Inpatient Recovery: Evidence from China's Gender-and Occupation-Specific Retirement Ages.** with Lele Zhao, Lu Yao, and Guisong Wang.
 
-[Submitted]
+[Revise and Resubmit]
 
 **Abstract:** Retirement is often viewed as a transition from work to leisure, but in aging societies with strong family-care norms, it may also reallocate individuals from paid work to unpaid care work, particularly grandchild care. This paper examines how retirement reshapes inpatient recovery in China, where statutory retirement ages differ by gender and occupation and place white-collar females' retirement transitions near a period of rising grandchild-care responsibilities. Using administrative inpatient discharge records from a leading hospital, we implement a fuzzy regression discontinuity design around the retirement thresholds for men, blue collar females, and white-collar females. Retirement changes inpatient recovery only among white-collar females. At their statutory retirement threshold, hospital readmissions increase and length of stay declines, while inpatient spending shows no corresponding discontinuity. We find null effects for men and blue-collar females. This heterogeneity is difficult to reconcile with conventional financial or insurance channels. Instead, evidence from nationally representative survey data suggests that white-collar females encounter a caregiving squeeze at retirement, as grandchild care responsibilities rise sharply around the same age. Psychosocial stress from the disruption of work-related identity appears to play a complementary role. These findings suggest that the health consequences of retirement depend on what replaces paid work. The results caution that retirement policy should account for changes in family-care demands across the life cycle. 
 
 ### **Police-Involved Killings and Public Finance: Evidence from Municipal Bond Markets.** with Feng Chen, Stephanie F. Cheng, and Wei Long.
 
-[Submitted]
+[Draft Upon Request]
 
 **Abstract:** This paper studies how shocks to government stewardship are reflected in capital markets, using police-involved killings as salient public events. Using bond-level data from the U.S. municipal primary market from 2000 to 2019, we show that police-involved killings increase municipal bond offering spreads. Instrumental variable estimates imply that one additional fatal encounter in the prior 12 months raises spreads by about 6 basis points, with larger effects for incidents receiving greater media coverage. These responses reflect heightened fiscal risk, weakened confidence in local stewardship, and social disruption amplified by local investor exposure, extending the economic consequences beyond litigation and settlement costs.
 
 ### **Gender Identity, Race, Ethnicity, and Health Insurance Discrimination in Access to Mental Health Care: Evidence from an Audit Correspondence Field Experiment.** with Patrick Button, Barbara Lundebjerg, Luca Fumarco, and Benjamin Harrell.
+
+[Draft Upon Request]
 
 **Abstract:** We use a correspondence experiment to test if mental health providers (MHPs) (those who do talk therapy, such as therapists and psychologists) discriminate against prospective clients based on gender identity, gender, race, ethnicity, and health insurance or payment type. We send emails requesting appointments to MHPs in the United States. The emails come from fictitious prospective clients who have on-average identical emails, but signal a different gender identity, gender, race, ethnicity, and health insurance status or payment method. We test for differential treatment by MHPs by comparing response quality and response rates. We will then test for statistical discrimination and other explanatory factors by determining how discrimination varies by factors such as local demographics and social attitudes, pro- or anti-trans laws, and MHP characteristics.
 
