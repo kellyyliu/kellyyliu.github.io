@@ -35,7 +35,7 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 My research interests are in health economics, the economics of aging, the economics of education, and applied microeconomics.
 
-My research examines how institutions shape health investments and the accumulation of health over the life course, with a particular focus on education, healthcare access, retirement, and technological change.
+My research examines how institutions shape health investments and the accumulation of health over the life course, with a particular focus on education, retirement, health insurance coverage, and technological change.
 
 **I am on the 2026-2027 academic job market.**
 
@@ -61,15 +61,37 @@ My research examines how institutions shape health investments and the accumulat
 .jmp-toggle p:last-child {
   margin-bottom: 0;
 }
+/* Profile photo: slightly smaller than the theme default (30%) */
+@media (min-width: 576px) {
+  .profile.float-right,
+  .profile.float-left {
+    width: 25%;
+  }
+}
+
+/* On phones, show a smaller centered photo instead of a full-width one */
+@media (max-width: 575.98px) {
+  .profile.float-right,
+  .profile.float-left {
+    width: 60%;
+    float: none !important;
+    margin: 0 auto 1rem;
+  }
+}
+
+/* Address under the photo: use the body font instead of the theme's monospace */
+.profile .more-info {
+  font-family: inherit;
+}
 </style>
 
-<details class="jmp-toggle">
+<details class="jmp-toggle" open>
   <summary>Job Market Paper</summary>
 
-  <p><strong>Higher Education and Long-Term Health: Evidence from China’s College Entrance Exam Suspension</strong></p>
+<p><strong>Higher Education and Long-Term Health: Evidence from China’s College Entrance Exam Suspension</strong></p>
   <p><a href="https://drive.google.com/file/d/1JD2pR_LKRFN-EVKZeMrIYRmaqREs9XQn/view?usp=sharing"><strong>[Draft]</strong></a></p>
 
-  <p>My job market paper examines how higher education shapes later-life health, using the suspension of China’s college entrance examination to identify the long-run effects of college completion. The results show that education improves health behaviors, preventive care, insurance, and wealth, while increasing diagnosed chronic morbidity, highlighting the distinction between health production and disease detection.</p>
+<p>My job market paper asks whether higher education improves later-life health. I exploit China’s 1966–1969 suspension of the college entrance exam, a rare and abrupt contraction in college access, using a fuzzy regression discontinuity design. College completion increases diagnosed chronic morbidity, yet shows little systematic effect on physical, mental, or cognitive health. It also raises healthier behaviors, preventive care, employment-based health insurance, and wealth. These patterns are consistent with education shaping both health production and disease detection, which explains why diagnosed morbidity and broader health measures need not move together.</p>
 </details>
 
-[**[Curriculum Vitae]**](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing) 
+[**[Curriculum Vitae]**](https://drive.google.com/file/d/16R8eOM5hFcnistKCPjs-zGLHWqUOeM9e/view?usp=sharing)
